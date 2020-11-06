@@ -122,7 +122,7 @@ class _HomePageState extends State<HomePage> {
                               ),
                             ),
                             subtitle: Text(
-                              'Verción 1.3.0',
+                              'Verción 1.4.0',
                               style: GoogleFonts.montserrat(
                                 color: Colors.white,
                                 shadows: [
